@@ -1,6 +1,6 @@
 # About Me:
 
-<img align="right" src="https://i.giphy.com/media/OnJLRvXvAmvPW/giphy.gif" width="40%" height="40%" />
+<img align="right" src="https://i.giphy.com/media/OnJLRvXvAmvPW/giphy.gif" width="50%" height="50%" />
 
 I am currently seeking fresh professional opportunities in the fields of Infrastructure, Engineering, and Data Analysis. Staying up-to-date with the latest technology trends in these areas is my priority, as it equips me to tackle market challenges with ease. I'm finishing my degree in Computer Science and trying gearing up for a career in Data Engineering. I am dedicated and committed to project success. If you are on the lookout for someone who is enthusiastic about taking on new challenges, please do not hesitate to reach out. I am always open to exploring new opportunities!
 
