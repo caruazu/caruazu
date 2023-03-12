@@ -8,9 +8,10 @@ I am currently seeking fresh professional opportunities in the fields of Infrast
 
 ## My current most used tech stack
 
-### Integrated development environments
+### Integrated development environments and other tools
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-orange.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 
 ### Libraries
 
