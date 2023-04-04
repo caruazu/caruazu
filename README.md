@@ -4,7 +4,7 @@
 # About Me:
 
 
-I am currently seeking fresh professional opportunities in the fields of Infrastructure, Engineering, and Data Analysis. Staying up-to-date with the latest technology trends in these areas is my priority, as it equips me to tackle market challenges with ease. I'm finishing my degree in Computer Science and trying gearing up for a career in Data Engineering. I am dedicated and committed to project success. If you are on the lookout for someone who is enthusiastic about taking on new challenges, please do not hesitate to reach out. I am always open to exploring new opportunities!
+I am currently seeking fresh professional opportunities in the fields of information technology. Staying up-to-date with the latest technology trends in these areas is my priority, as it equips me to tackle market challenges with ease. I'm finishing my degree in Computer Science and trying gearing up for a career in Data Engineering. I am dedicated and committed to project success. If you are on the lookout for someone who is enthusiastic about taking on new challenges, please do not hesitate to reach out. I am always open to exploring new opportunities!
 
 ## My current most used tech stack
 
@@ -20,6 +20,10 @@ I am currently seeking fresh professional opportunities in the fields of Infrast
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Web Framworks
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ### Languages
 
@@ -38,6 +42,6 @@ I am currently seeking fresh professional opportunities in the fields of Infrast
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Servers
-
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
