@@ -3,38 +3,35 @@
 
 # About Me:
 
+I am looking for new professional opportunities in the field of computer science. I have been looking to learn about the most popular technologies in the field in order to stay up-to-date and prepared for the challenges of the market. I believe that computing is a powerful tool for applying scientific methodologies and clarifying reality, and in order to better understand contexts, I always seek to learn broadly about the subjects that interest me.
 
-I am currently seeking fresh professional opportunities in the fields of information technology. Staying up-to-date with the latest technology trends in these areas is my priority, as it equips me to tackle market challenges with ease. I'm finishing my degree in Computer Science and trying gearing up for a career in Data Engineering. I am dedicated and committed to project success. If you are on the lookout for someone who is enthusiastic about taking on new challenges, please do not hesitate to reach out. I am always open to exploring new opportunities!
+I have recently been working as a web developer with two years of professional experience in web development projects for public sector companies. I have worked in various stages of the life cycle of these systems, with a special focus on their functionalities. Currently, I am a senior undergraduate student in Computer Science, where I am a calculus tutor and participate in a research project in artificial intelligence.
 
-## My current most used tech stack
+## My current most used tech
 
 ### Integrated development environments and other tools
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-orange.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 
-### Libraries
-
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 ### Web Framworks
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=Django)
+![Jakarta](https://img.shields.io/badge/jakarta-orange?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyNC4wLjMsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCA1MDAgMzgwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MDAgMzgwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDojNTg1OTVCO30NCgkuc3Qxe2ZpbGw6I0ZEQjk0MDt9DQoJLnN0MntmaWxsOiNGRUIzMjI7fQ0KCS5zdDN7ZmlsbDojRjk4MjAwO30NCgkuc3Q0e2ZpbGw6IzFCMjA4Qjt9DQo8L3N0eWxlPg0KPGc+DQoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTc0LjksMzU1LjNjMS4zLDEuOCwzLjYsMy4zLDYuNSwzLjNjMy43LDAsOC40LTIuMyw4LjQtOC45di0zMi45aDcuNHYzMy42YzAsOS43LTcuNywxNS42LTE1LjYsMTUuNg0KCQljLTUuNiwwLTkuOS0yLjYtMTIuNy02LjRMNzQuOSwzNTUuM3oiLz4NCgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTMyLDM1NC43aC0xOC41bC0zLjgsMTAuOWgtNy44bDE3LjctNDguOGg2LjJsMTcuNyw0OC44aC03LjhMMTMyLDM1NC43eiBNMTI5LjksMzQ4LjFsLTcuMS0yMS4zaC0wLjENCgkJbC03LjEsMjEuM0gxMjkuOXoiLz4NCgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTQ4LjgsMzE2LjhoNy40djI1LjFoMC4xbDIwLjEtMjUuMWg4LjhMMTY5LjUsMzM2bDE3LjMsMjkuNUgxNzhsLTEzLjMtMjMuOGwtOC42LDl2MTQuOWgtNy40VjMxNi44eiIvPg0KCTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0yMTcsMzU0LjdoLTE4LjVsLTMuOCwxMC45aC03LjhsMTcuNy00OC44aDYuMmwxNy43LDQ4LjhoLTcuOEwyMTcsMzU0Ljd6IE0yMTQuOCwzNDguMWwtNy4xLTIxLjNoLTAuMQ0KCQlsLTcuMSwyMS4zSDIxNC44eiIvPg0KCTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0yMzMuOCwzMTYuOGgxOWM0LjEsMCw3LjMsMSw5LjksMy4yYzIuNywyLjMsNC45LDYsNC45LDEwLjRjMCw2LjMtMy42LDExLjQtOS41LDEzLjVsMTEuMywyMS43aC04LjgNCgkJbC0xMC4xLTIwLjhoLTkuNXYyMC44aC03LjRWMzE2Ljh6IE0yNDEuMiwzMzguMmgxMS4yYzUuNiwwLDguMy0zLjYsOC4zLTcuN2MwLTIuNS0xLTQuNS0yLjUtNS42Yy0xLjQtMS0yLjktMS41LTUuNC0xLjVoLTExLjYNCgkJVjMzOC4yeiIvPg0KCTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0yODIuNiwzMjMuNGgtMTMuNHYtNi42aDM0LjF2Ni42SDI5MHY0Mi4yaC03LjRWMzIzLjR6Ii8+DQoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTMyOC41LDM1NC43SDMxMGwtMy44LDEwLjloLTcuOGwxNy43LTQ4LjhoNi4ybDE3LjcsNDguOGgtNy44TDMyOC41LDM1NC43eiBNMzI2LjQsMzQ4LjFsLTcuMS0yMS4zaC0wLjENCgkJbC03LjEsMjEuM0gzMjYuNHoiLz4NCgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMzYxLjgsMzE2LjhoMzEuMnY3aC0yMy44djEzLjloMjAuM3Y2LjZoLTIwLjN2MTQuM2gyMy44djdoLTMxLjJWMzE2Ljh6Ii8+DQoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTM5OS45LDMxNi44SDQzMXY3aC0yMy44djEzLjloMjAuM3Y2LjZoLTIwLjN2MTQuM0g0MzF2N2gtMzEuMlYzMTYuOHoiLz4NCjwvZz4NCjxnPg0KCTxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik0zNjkuNSwyMC4zTDMwNyw4OC43Yy0wLjgsMzQuNy05LjIsODYuOS00NiwxMzQuN2w1NC40LDEzLjZDNDA2LjEsMTUxLjYsMzY5LjUsMjAuMywzNjkuNSwyMC4zeiIvPg0KCTxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik0zMDcsODguN2MwLjUtMjQtMi42LTM5LjYtMi42LTM5LjZsLTEzNy45LDE1MWw5NC4zLDIzLjZjMC4xLTAuMSwwLjEtMC4yLDAuMi0wLjNsLTYyLjctMTUuN0wzMDcsODguN3oiLz4NCgk8cGF0aCBjbGFzcz0ic3QzIiBkPSJNMTk4LjQsMjA3LjdsNjIuNywxNS43YzM2LjgtNDcuNyw0NS4yLTEwMCw0Ni0xMzQuN0wxOTguNCwyMDcuN3oiLz4NCgk8cGF0aCBjbGFzcz0ic3Q0IiBkPSJNMjg1LjYsMjM5LjFjNS41LDAsMTAuOCwwLjMsMTYuMSwwLjdMMTIzLjgsMTk2YzAsMCwzMy4xLDExLDczLjEsNzAuOEMyMTgsMjQ5LjgsMjQ5LjksMjM5LjEsMjg1LjYsMjM5LjF6Ii8+DQo8L2c+DQo8Zz4NCgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMzM1LjgsMzI1LjRjLTAuNy0wLjQtMS4zLTEtMS43LTEuN2MtMC40LTAuNy0wLjYtMS41LTAuNi0yLjNjMC0wLjgsMC4yLTEuNiwwLjYtMi4zYzAuNC0wLjcsMS0xLjMsMS43LTEuNw0KCQljMC43LTAuNCwxLjUtMC42LDIuMy0wLjZjMC44LDAsMS42LDAuMiwyLjMsMC42YzAuNywwLjQsMS4zLDEsMS43LDEuN2MwLjQsMC43LDAuNiwxLjUsMC42LDIuM2MwLDAuOC0wLjIsMS42LTAuNiwyLjMNCgkJcy0xLDEuMi0xLjcsMS43Yy0wLjcsMC40LTEuNSwwLjYtMi4zLDAuNlMzMzYuNSwzMjUuOCwzMzUuOCwzMjUuNHogTTM0MC44LDMyNC4xYzAuNy0wLjcsMS0xLjYsMS0yLjdjMC0wLjctMC4xLTEuNC0wLjUtMg0KCQlzLTAuNy0xLTEuMy0xLjNzLTEuMi0wLjUtMS45LTAuNWMtMS4xLDAtMiwwLjMtMi43LDFjLTAuNywwLjctMSwxLjYtMSwyLjdjMCwxLjEsMC4zLDIsMSwyLjdjMC43LDAuNywxLjYsMSwyLjcsMQ0KCQlDMzM5LjIsMzI1LjEsMzQwLjEsMzI0LjgsMzQwLjgsMzI0LjF6IE0zMzkuOCwzMjMuN0MzMzkuOCwzMjMuNywzMzkuOCwzMjMuNywzMzkuOCwzMjMuN2wtMC43LDBjMCwwLTAuMSwwLTAuMS0wLjFsLTAuNy0yDQoJCWMwLDAsMCwwLDAtMC4xYzAsMCwwLDAtMC4xLDBoLTAuOWMwLDAtMC4xLDAtMC4xLDAuMXYxLjljMCwwLjEsMCwwLjEtMC4xLDAuMWgtMC42Yy0wLjEsMC0wLjEsMC0wLjEtMC4xdi00LjRjMC0wLjEsMC0wLjEsMC4xLTAuMQ0KCQloMmMwLjUsMCwwLjksMC4xLDEuMSwwLjNjMC4zLDAuMiwwLjQsMC41LDAuNCwwLjljMCwwLjYtMC4zLDEtMC45LDEuMmMwLDAsMCwwLDAsMC4xbDAuOCwyQzMzOS44LDMyMy42LDMzOS44LDMyMy42LDMzOS44LDMyMy43eg0KCQkgTTMzOS4xLDMyMC40YzAtMC40LTAuMy0wLjYtMC45LTAuNmgtMWMwLDAsMCwwLDAsMHMwLDAsMCwwYzAsMCwwLDAsMCwwLjF2MWMwLDAuMSwwLDAuMSwwLjEsMC4xaDEuMQ0KCQlDMzM4LjgsMzIxLDMzOS4xLDMyMC44LDMzOS4xLDMyMC40eiIvPg0KPC9nPg0KPC9zdmc+DQo=)
+![Spring Boot](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logoColor=white&logo=spring)
+
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![sqllite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle)
 
 ### Operating systems
 
@@ -42,6 +39,8 @@ I am currently seeking fresh professional opportunities in the fields of informa
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Servers
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
