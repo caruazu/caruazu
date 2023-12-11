@@ -3,9 +3,7 @@
 
 # About Me:
 
-I am looking for new professional opportunities in the field of computer science. I have been looking to learn about the most popular technologies in the field in order to stay up-to-date and prepared for the challenges of the market. I believe that computing is a powerful tool for applying scientific methodologies and clarifying reality, and in order to better understand contexts, I always seek to learn broadly about the subjects that interest me.
-
-I have recently been working as a web developer with two years of professional experience in web development projects for public sector companies. I have worked in various stages of the life cycle of these systems, with a special focus on their functionalities. Currently, I am a senior undergraduate student in Computer Science, where I am a calculus tutor and participate in a research project in artificial intelligence.
+I am a developer with two years of professional experience in web development projects for public sector companies. I have worked in various stages of the lifecycle of these systems, with a special focus on their functionalities. I have just completed a degree in Computer Science, where I was a Calculus monitor and participated in a research project in artificial intelligence.
 
 ## My current most used tech
 
