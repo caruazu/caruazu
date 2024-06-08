@@ -14,9 +14,10 @@ I am a developer with two years of professional experience in web development pr
 
 ### Web Framworks
 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=Django)
-![Jakarta](https://img.shields.io/badge/jakarta-orange?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logoColor=white&logo=spring)
+![Jakarta](https://img.shields.io/badge/jakarta-orange?style=for-the-badge)
 
 ### Languages
 
@@ -25,6 +26,7 @@ I am a developer with two years of professional experience in web development pr
 
 ### Databases
 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![sqllite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
