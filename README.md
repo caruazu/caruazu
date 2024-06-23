@@ -3,7 +3,7 @@
 
 # About Me:
 
-I am a developer with two years of professional experience in web development projects for public sector companies. I have worked in various stages of the lifecycle of these systems, with a special focus on their functionalities. I have just completed a degree in Computer Science, where I was a Calculus monitor and participated in a research project in artificial intelligence.
+I am a developer with professional experience in web development projects for public sector companies. I have worked in various stages of the lifecycle of these systems, with a special focus on their functionalities. I have just completed a degree in Computer Science, where I was a Calculus monitor and participated in a research project in artificial intelligence.
 
 ## My current most used tech
 
