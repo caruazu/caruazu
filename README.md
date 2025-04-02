@@ -17,6 +17,7 @@ I am a developer with professional experience in web development projects for pu
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=Django)
 ![Spring Boot](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logoColor=white&logo=spring)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Jakarta](https://img.shields.io/badge/jakarta-orange?style=for-the-badge)
 
 ### Languages
